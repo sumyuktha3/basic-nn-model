@@ -83,7 +83,7 @@ AI_BRAIN.predict(x_n1_1)
 
 ## Dataset Information
 
-![image](https://user-images.githubusercontent.com/75235293/187087226-b6596c46-ed43-4e53-9abd-3776b0ce9d8f.png)
+![data](https://user-images.githubusercontent.com/75235818/187115162-0f3b2379-80cf-4bec-851c-a27c6f0fe901.png)
 
 
 ## OUTPUT
