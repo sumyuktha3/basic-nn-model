@@ -11,7 +11,7 @@ A neural network with multiple hidden layers and multiple nodes in each hidden l
 
 ## Neural Network Model
 
-![nndl](https://user-images.githubusercontent.com/75235818/187114617-93240bd0-90aa-45bb-a8fa-ccaac0af9617.png)
+![dl](https://user-images.githubusercontent.com/75235818/187118568-d080b589-13d2-4091-8307-f93a1c69bc38.png)
 
 ## DESIGN STEPS
 
