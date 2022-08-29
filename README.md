@@ -64,9 +64,9 @@ x_train1=Scaler.transform(x_train)
 x_train1
 x_train
 AI_BRAIN=Sequential([
-    Dense(8,activation='relu'),
-    Dense(10,activation='relu'),
-    Dense(1,activation='relu')
+    Dense(3,activation='relu'),
+    Dense(6,activation='relu'),
+    Dense(1)
 ])
 AI_BRAIN.compile(optimizer='rmsprop', loss='mse')
 AI_BRAIN.fit(x_train1,y_train,epochs=2000)
