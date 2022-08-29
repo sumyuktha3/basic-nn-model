@@ -29,7 +29,7 @@ Create MinMaxScalar objects ,fit the model and transform the data.
 
 ### STEP 4:
 
-Build the Neural Network Model and compile the model.
+Build the Neural Network Model with hidden layer 1-3, hidden layer 2-6 and compile the model.
 
 ### STEP 5:
 
